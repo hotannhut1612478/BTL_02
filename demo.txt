@@ -1,6 +1,6 @@
 ﻿chúng ta sẽ thực hiện thử 1 thay đổi trên file demo.txt này để xem thử tính năng của github 
 
-1.Bạn đã có bạn gái chưa!
+1.Bạn đã có bạn gái chưa! sắp có
 2.Tên bạn gái của bạn là gì!
 3.Số điện thoại của bạn gái bạn!
 4.FB bạn gái bạn!
